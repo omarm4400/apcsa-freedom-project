@@ -1,19 +1,23 @@
 # Tool Learning Log
 
-## Tool: **X**
+## Tool: unity
 
 ## Project: **X**
 
 ---
 
-### X/X/XX:
-* Text
+### 10/20/25:
+* after finally finding out how to add unity to my labtop, I've watched some totorials on the unity app to see how things work, and after watching it I tried some things. The first thing I added was the back ground which unity gives you some to choose from but you can download it online, another thing was the ground, wich i thought it will be hard but it turned out to be so easy and then I added some objects.
+So I think for first time using it, unity is so easy to learn.
+
+![alt text](vscode-local:/Screenshot%202025-10-20%20125412.png)
+
 
 ### X/X/XX:
 * Text
 
 
-<!-- 
+<!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
