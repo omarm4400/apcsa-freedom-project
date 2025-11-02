@@ -13,10 +13,15 @@ So I think for first time using it, unity is so easy to learn.
 ![alt text](vscode-local:/Screenshot%202025-10-20%20125412.png)
 
 
+### 11/2/25:
+* This week I continued watching the unity tutorials and I learned some new things, for example I learned how to make the charecter move using the arrow keys. I also learned how to add sound effects. for example when the charecter touches a star as you see in the screenshot it makes a sound effect. there is also a background sound effect that is runing all the time.
+
+
 ### X/X/XX:
-* Text
+### X/X/XX:
+### X/X/XX:
 
-
+![alt text](vscode-local:/Screenshot%202025-11-02%20181914.png)
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
